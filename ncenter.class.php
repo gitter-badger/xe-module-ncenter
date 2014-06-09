@@ -1,5 +1,5 @@
 <?php
-class notify extends ModuleObject
+class ncenter extends ModuleObject
 {
 	private $triggers = array(
 	);
