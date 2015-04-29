@@ -1,6 +1,8 @@
 notify
 ======
 
+[![Join the chat at https://gitter.im/xe-public/xe-module-ncenter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xe-public/xe-module-ncenter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 XpressEngine의 확장 기능인 회원의 활동 및 콘텐츠 변동에 대한 알림 제공
 
 ## License
